@@ -9,4 +9,5 @@
 6. [js 代码运行机制，宏任务、微任务](https://github.com/gauseen/blog/issues/6)
 7. [探索前端路由模式 hash、 history](https://github.com/gauseen/blog/issues/7)
 8. [理解 HTTP 专业术语](https://github.com/gauseen/blog/issues/9)
-9. [理解浏览器 HTTP 缓存](https://github.com/gauseen/blog/issues/8) :star:
+9. [理解浏览器 HTTP 缓存](https://github.com/gauseen/blog/issues/8)
+10. [Vue-项目从本地搭建到线上部署](https://github.com/gauseen/blog/issues/10) :star:
