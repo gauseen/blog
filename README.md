@@ -11,3 +11,6 @@
 8. [理解 HTTP 专业术语](https://github.com/gauseen/blog/issues/9)
 9. [理解浏览器 HTTP 缓存](https://github.com/gauseen/blog/issues/8)
 10. [Vue-项目从本地搭建到线上部署](https://github.com/gauseen/blog/issues/10) :star:
+
+欢迎关注公众号:  
+![](https://raw.githubusercontent.com/gauseen/images-bed/master/learn-fe.jpg)
