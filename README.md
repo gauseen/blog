@@ -11,7 +11,7 @@
 8. [理解 HTTP 专业术语](https://github.com/gauseen/blog/issues/9)
 9. [理解浏览器 HTTP 缓存](https://github.com/gauseen/blog/issues/8)
 10. [Vue-项目从本地搭建到线上部署](https://github.com/gauseen/blog/issues/10)
-11. [程序员高频单词](https://github.com/gauseen/blog/issues/11) :star:
+11. [程序员高频单词](https://github.com/gauseen/develop-common-words) :star:
 
 欢迎关注公众号: **学前端**  
 ![](https://raw.githubusercontent.com/gauseen/images-bed/master/learn-fe.jpg)
