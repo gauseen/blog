@@ -12,7 +12,8 @@
 9. [理解浏览器 HTTP 缓存](https://github.com/gauseen/blog/issues/8)
 10. [Vue-项目从本地搭建到线上部署](https://github.com/gauseen/blog/issues/10)
 11. [程序员高频单词](https://github.com/gauseen/develop-common-words)
-12. [常见 Web 安全攻防](https://github.com/gauseen/blog/issues/12) :star:
+12. [常见 Web 安全攻防](https://github.com/gauseen/blog/issues/12)
+13. [前端性能优化](https://github.com/gauseen/blog/issues/13) :star:
 
 欢迎关注公众号: **学前端**  
 ![](https://raw.githubusercontent.com/gauseen/images-bed/master/learn-fe.jpg)
