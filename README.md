@@ -14,7 +14,8 @@
 11. [程序员高频单词](https://github.com/gauseen/develop-common-words)
 12. [常见 Web 安全攻防](https://github.com/gauseen/blog/issues/12)
 13. [前端性能优化](https://github.com/gauseen/blog/issues/13)
-14. [JavaScript 设计模式](https://github.com/gauseen/blog/issues/14) :star:
+14. [JavaScript 设计模式](https://github.com/gauseen/blog/issues/14)
+15. [简单实现 Promises/A+ 规范](https://github.com/gauseen/blog/issues/15) :star:
 
 欢迎关注**无广告文章**公众号: **学前端**  
 ![](https://raw.githubusercontent.com/gauseen/images-bed/master/learn-fe.jpg)
