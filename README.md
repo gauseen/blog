@@ -16,6 +16,7 @@
 13. [前端性能优化](https://github.com/gauseen/blog/issues/13)
 14. [JavaScript 设计模式](https://github.com/gauseen/blog/issues/14)
 15. [简单实现 Promises/A+ 规范](https://github.com/gauseen/blog/issues/15) :star:
+16. [前端工程化](https://github.com/gauseen/blog/issues/16)
 
 欢迎关注**无广告文章**公众号: **学前端**  
 ![](https://raw.githubusercontent.com/gauseen/images-bed/master/learn-fe.jpg)
