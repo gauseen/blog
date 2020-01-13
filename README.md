@@ -18,7 +18,9 @@
 15. [简单实现 Promises/A+ 规范](https://github.com/gauseen/blog/issues/15)
 16. [前端工程化](https://github.com/gauseen/blog/issues/16)
 17. [大白话讲解 Koa2.js 洋葱模型](https://github.com/gauseen/blog/issues/17)
-18. [实现本地跨域存储](https://github.com/gauseen/blog/issues/18) :star:
+18. [实现本地跨域存储](https://github.com/gauseen/blog/issues/18)
+19. [Blob、File 、Base64 之间的闭环，你确定都知道？](https://github.com/gauseen/blog/issues/19) :star:
 
-欢迎关注**无广告文章**公众号: **学前端**  
+欢迎关注**无广告文**公众号: **学前端**  
+> PS: 只搞技术不搞广告文  
 ![](https://raw.githubusercontent.com/gauseen/images-bed/master/learn-fe.jpg)
