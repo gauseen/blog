@@ -25,4 +25,4 @@
 欢迎关注**无广告文**公众号: **学前端**  
 > PS: 只搞技术不搞广告文  
 
-![](https://raw.githubusercontent.com/gauseen/images-bed/master/learn-fe.jpg)
+![无广告文公众号](https://mmbiz.qpic.cn/mmbiz_jpg/jpMAO8eFhorGjVHAfdgNsFQgo5TVO1qA5KwSy4xa6Pwocicn0M0XwMgmM6b2Zytqh5WHKMkcicRev3QQjonQ41BQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
