@@ -23,7 +23,8 @@
 20. [new Date() 引发的思考，UTC？GMT？](https://github.com/gauseen/blog/issues/20)
 21. [三本毕业（非科班），四次阿里面试，终拿 offer](https://github.com/gauseen/blog/issues/21)
 22. [Git 常用指令 & 技巧](https://github.com/gauseen/blog/issues/22)
-23. [盘点 TypeScript 中的易混淆点](https://github.com/gauseen/blog/issues/23) :star:
+23. [盘点 TypeScript 中的易混淆点](https://github.com/gauseen/blog/issues/23)
+24. [熟悉又陌生的移动端适配](https://github.com/gauseen/blog/issues/24) :star:
 
 欢迎关注**无广告文**公众号: **学前端**  
 > PS: 只搞技术不搞广告文  
