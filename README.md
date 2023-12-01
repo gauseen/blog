@@ -1,6 +1,7 @@
 ### :pushpin: blog
 > :cn: [大前端技术汇总](https://github.com/gauseen/blog/issues/4)
-- [bundle vs chunk](https://github.com/gauseen/blog/issues/25) :star:
+- [你想知道的 HTTP Cookie 都在这](https://github.com/gauseen/blog/issues/26) :star:
+- [bundle vs chunk](https://github.com/gauseen/blog/issues/25)
 - [熟悉又陌生的移动端适配](https://github.com/gauseen/blog/issues/24)
 - [盘点 TypeScript 中的易混淆点](https://github.com/gauseen/blog/issues/23)
 - [Git 常用指令 & 技巧](https://github.com/gauseen/blog/issues/22)
