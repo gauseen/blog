@@ -28,7 +28,3 @@
 - [用 git 钩子, 检测 js 代码规范性（eslint、standard）](https://github.com/gauseen/blog/issues/2)
 - [解读 js-this](https://github.com/gauseen/blog/issues/1)
 
-欢迎关注**无广告文**公众号: **学前端**  
-> PS: 只搞技术不搞广告文  
-
-![无广告文公众号](https://raw.githubusercontent.com/gauseen/images-bed/master/learn-fe.jpg)
