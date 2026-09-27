@@ -5,7 +5,6 @@
 - [熟悉又陌生的移动端适配](https://github.com/gauseen/blog/issues/24)
 - [盘点 TypeScript 中的易混淆点](https://github.com/gauseen/blog/issues/23)
 - [Git 常用指令 & 技巧](https://github.com/gauseen/blog/issues/22)
-- [三本毕业（非科班），四次阿里面试，终拿 offer](https://github.com/gauseen/blog/issues/21)
 - [new Date() 引发的思考，UTC？GMT？](https://github.com/gauseen/blog/issues/20)
 - [Blob、File 、Base64 之间的闭环，你确定都知道？](https://github.com/gauseen/blog/issues/19)
 - [实现本地跨域存储](https://github.com/gauseen/blog/issues/18)
